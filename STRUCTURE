@@ -1,0 +1,13 @@
+student-dropout-prediction/
+│
+├── data/
+│   └── students.csv
+│
+├── notebook/
+│   └── dropout_model.ipynb
+│
+├── images/
+│   └── confusion_matrix.png
+│
+├── README.md
+└── requirements.txt
