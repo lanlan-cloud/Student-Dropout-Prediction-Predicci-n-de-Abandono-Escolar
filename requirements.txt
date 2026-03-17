@@ -1,0 +1,13 @@
+pandas
+matplotlib
+scikit-learn
+📥 Dataset real
+
+Buscar en Kaggle:
+
+👉 "Student Dropout Dataset"
+👉 "Student Performance Dataset"
+
+Guardar como:
+
+data/students.csv
